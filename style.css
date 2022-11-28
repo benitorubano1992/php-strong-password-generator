@@ -1,0 +1,23 @@
+.form-label.ms_form-label {
+    width: 40%;
+}
+
+.ms-form-control.form-control {
+    width: 20%;
+}
+
+.ms-form-control.form-control.ms-check {
+    width: 20px;
+    height: 20px;
+}
+
+span {
+    padding-bottom: 3px;
+    padding-left: 15px;
+}
+
+.radio {
+
+    display: flex;
+    flex-direction: column;
+}
